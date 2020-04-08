@@ -1,0 +1,48 @@
+---
+title: "passover-2020"
+author: "Rick Gilmore"
+date: "2020-04-08"
+css: ioslides.css
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: libs
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Chag Semeach!
+
+<https://psu.zoom.us/j/176165097?pwd=VjVKcGFNQnFXS3BEMVJvZzR6SG4vdz09>
+
+```{r, fig.align='center'}
+library(qrcode)
+qrcode_gen('https://psu.zoom.us/j/176165097?pwd=VjVKcGFNQnFXS3BEMVJvZzR6SG4vdz09')
+```
+
+## Audio call-in:
+
++1 646 876 9923 (US Toll)</br>
++1 312 626 6799 (US Toll)</br>
++1 669 900 6833 (US Toll)</br>
++1 253 215 8782 (US Toll)</br>
++1 301 715 8592 (US Toll)</br>
++1 346 248 7799 (US Toll)</br>
+
+Meeting ID: 176 165 09
+
+Rick's cell 814-777-3298
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XH1fERC_504" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTs7N1xDi4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
